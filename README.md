@@ -7,4 +7,8 @@
 * p
 * table
 
+# 安装方法
+```
+composer require brczo/htmltopdf
+```
 使用方法请看src/Test下使用案例
